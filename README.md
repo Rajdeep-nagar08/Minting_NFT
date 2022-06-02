@@ -1,1 +1,2 @@
 # Minting_NFT
+## Steps
