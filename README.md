@@ -15,3 +15,8 @@
 ## Selecting the respective contract
 
 ![This is an image](https://github.com/Rajdeep-nagar08/Minting_NFT/blob/main/Screenshot%20(1152).png)
+
+
+## Deploying smart contract
+
+![This is an image](https://github.com/Rajdeep-nagar08/Minting_NFT/blob/main/Screenshot%20(1153).png)
