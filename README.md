@@ -10,3 +10,8 @@
 ## Setting Environment to "Injected WEB3"
 
 ![This is an image](https://github.com/Rajdeep-nagar08/Minting_NFT/blob/main/Screenshot%20(1151).png)
+
+
+## Selecting the respective contract
+
+![This is an image](https://github.com/Rajdeep-nagar08/Minting_NFT/blob/main/Screenshot%20(1152).png)
